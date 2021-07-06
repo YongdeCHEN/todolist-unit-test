@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+h1 {
+  margin:2rem;
+}
+
+.add-todo-form{
+  margin:2rem;
+}
+.green {
+  color:green;
+
+}
+
+.red {
+  color:red;
+  text-decoration:line-through;
+}
+  
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.App {
+  max-width: 800px;
+  width:60%;
+  margin:5rem auto;
+}
+
+form button {
+  padding:4px 14px;
+  margin-left: 1rem;
+}
+
+
+.list-item button {
+  color:red;
+  font-size: 30px;
+  margin:0.1em 0.3em;
+  padding:0 8px;
+
+}
+
+button {
+  cursor: pointer;
+}
+input {
+  margin: 0 0.3em;
+}
