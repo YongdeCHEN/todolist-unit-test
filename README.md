@@ -16,6 +16,9 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
+Please use the command below to see the test coverage when running the unit test
+### `npm run test-coverage`
+
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
